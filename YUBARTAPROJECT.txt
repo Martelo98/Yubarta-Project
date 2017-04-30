@@ -1,0 +1,23 @@
+
+Good morning, in our group we have set out to solve the challenge of migratory trips, choosing a species, in our case, the humpback whale, studying its migration routes
+and also creating a visual and interactive tool, i.e a simple app able to 
+show the user of the app the place where the whales are migrating in a certain time. The app is very basic but
+from this idea, one could even design a higher and more advanced edition with more species, and as a last result,
+from the information gathered from all species, one could even study the past consequences of climate change on species
+and to anticipate future ones.
+
+First, the resource used to create the app has been MIT App Inventor 2. It has been chosen because it is used to
+create apps without having to program or have very basic knowledge of programming, being a newness. From the
+choice of it, we chose a minimalist design, with possibility of editing, to be very visual and easy to use, with specific selections for the user.
+
+Secondly, the block code of the app itself was elaborated to make the different functions of the app work.
+The data obtained to locate the whales has been taken of the links of the own page of the NASA and of outer pages,
+comparing different data for them to be reliable.
+
+Finally, in addition to the functions of detecting the moves of humpback whales, with their relevant description, it will be also avalaible
+the option of GPS and share in social networks.
+
+You will have the link of the app, and to open it you should go to the page of App Inventor 2 and import the file that is attached.
+
+We would like to highlight the value of the project since none of the members of the group have previous programming knowledge
+and we have been able to develop a simple application that works. It has been an achievement, and a pleasure at the same time to work for NASA for the first time.
